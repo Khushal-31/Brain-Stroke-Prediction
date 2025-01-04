@@ -6,6 +6,8 @@ Dataset Reference : https://www.kaggle.com/datasets/fedesoriano/stroke-predictio
 
 Group Members : 
 
-Khushal Damor \n
-Lakshya Garg \n
+Khushal Damor
+
+Lakshya Garg
+
 Devendra Jadhav
